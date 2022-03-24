@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Noelia Paz
 ---
-# Brigham Young
+# Noelia Paz 
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
