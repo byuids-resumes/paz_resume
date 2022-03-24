@@ -2,7 +2,7 @@
 layout: cv
 title: Noelia
 ---
-# Noelia Paz 
+# Noelia
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
