@@ -14,7 +14,7 @@ The second prophet of The Church of Jesus
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education for me
+## Education
 
 
 
