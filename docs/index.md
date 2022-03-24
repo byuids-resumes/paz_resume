@@ -3,7 +3,7 @@ layout: cv
 title: Noelia
 ---
 # Noelia
-The second prophet of The Church of Jesus Christ of Latter-day
+The second prophet of The Church of Jesus
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
