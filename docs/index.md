@@ -46,10 +46,16 @@ __Imagine Learning__
 - Used R and the Rvest package to parse and format web data.
 - Saved 30 hours a month with the automated scripts.
 
+## Skills
+-R
+-Python
+-SQL
+
+
 ## Service and Work History
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2019-20212`
+__Service Missionary__, St. George, Utah
 
 
 
