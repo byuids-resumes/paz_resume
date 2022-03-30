@@ -54,7 +54,7 @@ __Imagine Learning__
 
 ## Service and Work History
 
-`2019-20212`
+`2019-2021`
 __Service Missionary__, St. George, Utah
 
 
