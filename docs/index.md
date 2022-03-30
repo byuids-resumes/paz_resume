@@ -57,6 +57,9 @@ __Imagine Learning__
 `2019-2021`
 __Service Missionary__, St. George, Utah
 
+`Sept.2021 - Dec. 2021`
+__BYU-Idaho Freshman Mentor__
+- Advised and counseled the freshman students throughout the semester
 
 
 <!-- ### Footer
