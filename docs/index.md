@@ -47,9 +47,9 @@ __Imagine Learning__
 - Saved 30 hours a month with the automated scripts.
 
 ## Skills
--R
--Python
--SQL
+- R
+- Python
+- SQL
 
 
 ## Service and Work History
